@@ -4,7 +4,6 @@ title: new post
 tags: third stata post
 ---
 
-<!DOCTYPE html>
 <body>
 <h2 id="my-own-document">My own Document</h2>
 <p>Let us load the <code>auto</code> dataset and see what it contains!</p>
@@ -69,4 +68,3 @@ Sorted by: foreign
 </figure>
 <p>That’s all for now!</p>
 </body>
-</html>
