@@ -6,7 +6,7 @@ title: Home
 
 {% include navigation.html %}
 
-<img src="https://drive.google.com/file/d/1I_6SRlEaKSnA9EBMfSeOMsFlsm0sYIQo/view?usp=sharing" width="400" height="400" />
+<img src="https://www.dropbox.com/s/6fja7glgxu0ys23/AP_Austria.jpg?dl=0" width="400" height="400" />
 
 ## Bio
 ------------------------------------
