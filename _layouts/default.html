@@ -4,16 +4,18 @@
   {%- include head.html -%}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <body>
-
+     margin: 0 auto;
+     max-width: 36em;
+     padding-left: 50px;
+     padding-right: 50px;
+    
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="content">
         <div class="wrapper">
           {{ content }}
       
         </div>
-      </div>
     </main>
 
     {%- include footer.html -%}
