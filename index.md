@@ -4,8 +4,6 @@ title: Home
 ---
 ## Welcome to my website!
 
-{% include navigation.html %}
-
 <img src="/images/AP_Austria.jpg" width="500" height="400" />
 
 ## Bio
