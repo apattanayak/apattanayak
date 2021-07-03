@@ -6,7 +6,7 @@ title: Home
 
 {% include navigation.html %}
 
-<img src="/images/AP_Brazil.jpg" width="400" height="400" />
+<img src="/images/AP_Brazil.jpg" width="450" height="400" />
 
 ## Bio
 ------------------------------------
