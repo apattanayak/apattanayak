@@ -2,7 +2,6 @@
 layout: post
 title: new post
 tags: third stata post
-categories: tutorials
 ---
 
 <!DOCTYPE html>
