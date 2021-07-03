@@ -4,9 +4,9 @@
   url: /
 
 - title: Research
-  url: /Research/
+  url: /Research
 - title: Blog
-  url: /Blog/
+  url: /Blog
   sublinks:
     - title: Sub-item 1
       url: /group/si1
