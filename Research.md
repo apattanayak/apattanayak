@@ -3,16 +3,7 @@ layout: page
 title: Research
 ---
 
-This page will take you through various research projects that I have worked on so far. Hope you find it useful.
-Enjoy reading!
-
-There are a few key points to note:
-
-- I request the viewers to acknowledge or cite any research that they find useful.
-- If you have any queries, you can alwasy [write](anubhab@mse.ac.in) to me.
-
-Let's get going!
-
+-----------------------------
 
 This page will take you through various research projects that I have worked on so far. Hope you find it useful.
 Enjoy reading!
@@ -24,6 +15,7 @@ There are a few key points to note:
 
 Let's get going!
 
+-----------------------------
 
 This page will take you through various research projects that I have worked on so far. Hope you find it useful.
 Enjoy reading!
@@ -33,6 +25,10 @@ There are a few key points to note:
 - I request the viewers to acknowledge or cite any research that they find useful.
 - If you have any queries, you can alwasy [write](anubhab@mse.ac.in) to me.
 
+Let's get going!
+
+
+-----------------------------
 
 This page will take you through various research projects that I have worked on so far. Hope you find it useful.
 Enjoy reading!
@@ -44,8 +40,20 @@ There are a few key points to note:
 
 Let's get going!
 
+-----------------------------
+
+This page will take you through various research projects that I have worked on so far. Hope you find it useful.
+Enjoy reading!
+
+There are a few key points to note:
+
+- I request the viewers to acknowledge or cite any research that they find useful.
+- If you have any queries, you can alwasy [write](anubhab@mse.ac.in) to me.
+
+
 Let's get going!
 
+-----------------------------
 
 This page will take you through various research projects that I have worked on so far. Hope you find it useful.
 Enjoy reading!
@@ -56,3 +64,5 @@ There are a few key points to note:
 - If you have any queries, you can alwasy [write](anubhab@mse.ac.in) to me.
 
 Let's get going!
+
+-----------------------------
