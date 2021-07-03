@@ -1,3 +1,10 @@
+---
+layout: post
+title: new post
+tags: third stata post
+categories: tutorials
+---
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
 <head>
