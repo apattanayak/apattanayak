@@ -7,4 +7,4 @@ description: Welcome to my website!
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
