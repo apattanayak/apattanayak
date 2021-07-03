@@ -3,8 +3,10 @@
 - title: Home
   url: /
 
-- title: Group of Things
-  url: /group/
+- title: Research
+  url: /Research/
+- title: Blog
+  url: /Blog/
   sublinks:
     - title: Sub-item 1
       url: /group/si1
