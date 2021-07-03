@@ -3,4 +3,4 @@ layout: home
 title: Blog
 ---
 
-Blog
+## Welcome to my Blog!
