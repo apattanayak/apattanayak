@@ -6,7 +6,7 @@ title: Home
 
 {% include navigation.html %}
 
-<img src="https://www.mse.ac.in/wp-content/uploads/2017/01/Anubhab_DP_Website1.jpg" width="400" height="400" />
+<img src="https://drive.google.com/file/d/1I_6SRlEaKSnA9EBMfSeOMsFlsm0sYIQo/view?usp=sharing" width="400" height="400" />
 
 ## Bio
 ------------------------------------
