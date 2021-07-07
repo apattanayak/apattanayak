@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>md_notes</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<style>
+/* CSS for Markstat 2.0 using Pandoc 2.0 */
+body{padding:14px 28px; max-width:45em;}
+body, table {font-family: Helvetica, Arial, Sans-serif; font-size: 14px;}
+h1, h2, h3, h4 {font-weight: normal; color: #3366cc}
+h1 {font-size: 200%;}
+h2 {font-size: 150%;}
+h3 {font-size: 120%;}
+h4 {font-size: 100%; font-weight:bold}
+img.center {display:block; margin-left:auto; margin-right:auto}
+.small{font-size:8pt;}
+a {color: black;}
+a:visited {color: #808080;}
+a.plain {text-decoration:none;}
+a.plain:hover {text-decoration:underline;}
+.em {font-weight:bold;}
+pre, code {font-family: "lucida console", monospace;}
+pre.stata {font-size:13px; line-height:13px;}
+pre {padding:8px; border:1px solid #c0c0c0; border-radius:8px; background-color:#fdfdfd;}
+code {color:#3366cc; background-color:#fafafa;}
+pre code { color:black; background-color:white}
+/* Added for Pandoc */
+figure > img, div.figure > img {display:block; margin:auto}
+figcaption, p.caption {text-align:center; font-weight:bold; color:#3366cc;}
+h1.title {text-align:center; margin-bottom:0}
+p.author, h2.author {font-style:italic; text-align:center;margin-top:4px;margin-bottom:0}
+p.date, h3.date {text-align:center;margin-top:4px; margin-bottom:0}
+/* Tables*/
+table { margin:auto; border-collapse:collapse; }
+table caption { margin-bottom:1ex;}
+td {padding:0 0 0 0} /* override */
+table:not([class]) th { padding:4px 6px } 
+table:not([class]) td { padding:4px 6px } 
+table:not([class]) thead tr:first-child th {border-top:1px solid black; padding-top:6px}
+table:not([class]) thead tr:last-child  th {padding-bottom:6px}
+table:not([class]) tbody tr:first-child td {border-top:1px solid black; padding-top:6px}
+table:not([class]) tbody tr:last-child  td {padding-bottom:6px;}
+table:not([class]) tbody:last-child tr:last-child td {border-bottom:1px solid black;}
+</style>
+</head>
+<body>
+<h2 id="notes-for-nss-education-survey-75th-round-2017-18">Notes for NSS Education Survey (75<sup>th</sup> Round: 2017-18)</h2>
+<p>The present document details the notes that I have prepared as I proceed to analyze the NSS Education Survey data.</p>
+<p>Let’s import the dataset and order some variables first.</p>
+<pre class='stata'>. use "D:\Data\NSS\Education\stata\Merged_data\block1_7_lbl.dta", clear
+
+. order hhid Sl_No_informant Hhsize, before(Person_SN)
+</pre>
+<p>Now examine the enrollment stuatus of the eligible (Age 3-35) population</p>
+<pre class='stata'>. tabulate Enrollment_status_3_35, matcell(x)
+
+Status of enrolment: For age 3-35 years │      Freq.     Percent        Cum.
+────────────────────────────────────────┼───────────────────────────────────
+                        never enrolled  │     27,816        9.71        9.71
+enrolled in past academic year and curr │    104,487       36.48       46.19
+enrolled in current academic year and c │      1,161        0.41       46.59
+                    currently attending │    152,992       53.41      100.00
+────────────────────────────────────────┼───────────────────────────────────
+                                  Total │    286,456      100.00
+</pre>
+<p>We have total of <code>152,992</code> individuals who are currently attending. Let’s create an indicator variable <code>current_attend</code> to examine how many of the eligible population are attending currently and those who are not currently attending.</p>
+<pre class='stata'>. //indicator: currently attending or not
+. recode Enrollment_status_3_35 (4 = 1) (1/3 = 0), gen(current_attend)
+(286456 differences between Enrollment_status_3_35 and current_attend)
+
+. label define current_attend 1 "yes" 0 "no"
+
+. label values current_attend current_attend
+</pre>
+<p>Let’s also create a variable <code>ever_enroll</code> to indicate how many of the elibigle population ever enrolled.</p>
+<pre class='stata'>. //indicator: ever_enrolled
+. recode Enrollment_status_3_35 (2/4 = 1) (1 = 0), gen(ever_enrolled)
+(286456 differences between Enrollment_status_3_35 and ever_enrolled)
+
+. label define ever_enrolled 1 "yes" 0 "no"
+
+. label values ever_enrolled ever_enrolled
+</pre>
+<p>Let’s examine the information contained in these two newly created variables, viz., <code>current_attend</code> and <code>ever_enroll</code> and compare them with the information on individuals’ relation with the head of the households.</p>
+<p>So we run the following commands.</p>
+<pre><code>tab Relation_head current_attend</code></pre>
+<pre class='stata'>                      │       RECODE of
+                      │ Enrollment_status_3_3
+                      │     5 (Status of
+                      │  enrolment: For age
+                      │      3-35 years)
+     Relation to head │        no        yes │     Total
+──────────────────────┼──────────────────────┼──────────
+               self-1 │    15,099      2,628 │    17,727 
+     spouse of head-2 │    20,239        196 │    20,435 
+      married child-3 │    15,438        633 │    16,071 
+spouse of married chi │    18,297        620 │    18,917 
+    unmarried child-5 │    51,428    119,473 │   170,901 
+         grandchild-6 │     7,508     25,585 │    33,093 
+father/mother/father- │         1          0 │         1 
+brother/sister/brothe │     5,103      3,673 │     8,776 
+servants/employees/ o │       350        182 │       532 
+──────────────────────┼──────────────────────┼──────────
+                Total │   133,463    152,990 │   286,453 
+</pre>
+<p>From the above table we see that nearly <code>78</code> (=119473/152990) percentage of the currently enrolled population is an <code>unmarried child</code> of the household head. Similarly, we see that nearly <code>39</code> (=51428/133463) percentage of the currently <strong>not</strong> enrolled population is an <code>unmarried child</code> of the household head.</p>
+<p>If we consider only the currently enrolled population, then <span class="math inline">∼</span> <code>95</code> percent of the population are either <code>unmarried child</code> or <code>grandchild</code> of the household head.</p>
+<pre><code>tab Relation_head ever_enrolled</code></pre>
+<pre class='stata'>                      │       RECODE of
+                      │ Enrollment_status_3_3
+                      │     5 (Status of
+                      │  enrolment: For age
+                      │      3-35 years)
+     Relation to head │        no        yes │     Total
+──────────────────────┼──────────────────────┼──────────
+               self-1 │     2,377     15,350 │    17,727 
+     spouse of head-2 │     5,094     15,341 │    20,435 
+      married child-3 │       954     15,117 │    16,071 
+spouse of married chi │     2,168     16,749 │    18,917 
+    unmarried child-5 │    11,664    159,237 │   170,901 
+         grandchild-6 │     4,601     28,492 │    33,093 
+father/mother/father- │         1          0 │         1 
+brother/sister/brothe │       870      7,906 │     8,776 
+servants/employees/ o │        87        445 │       532 
+──────────────────────┼──────────────────────┼──────────
+                Total │    27,816    258,637 │   286,453 
+</pre>
+</body>
+</html>
