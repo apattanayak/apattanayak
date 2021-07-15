@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research
+# Research
 
 {% include navigation.html %}
 
