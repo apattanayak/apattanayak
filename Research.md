@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 ---
-
-# Research
 
 {% include navigation.html %}
 
