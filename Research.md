@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Research
+layout: default
 ---
+
+## Research
 
 {% include navigation.html %}
 
