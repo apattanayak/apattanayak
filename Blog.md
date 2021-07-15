@@ -1,8 +1,9 @@
 ---
 layout: home
+title: Blog
 ---
 
-Blog
-====
+# Blog
+
 
 {% include navigation.html %}
