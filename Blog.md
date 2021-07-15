@@ -2,5 +2,7 @@
 layout: home
 ---
 
-# Blog
+Blog
+====
+
 {% include navigation.html %}
