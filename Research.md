@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Research
-
 ---
+
+## Research
 
 {% include navigation.html %}
 
