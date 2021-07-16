@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. Nevertheless!!! <!--more-->
+This is the first paragraph. This is the first paragraph. Nevertheless!!! 
+
+------<!--more-->
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 
