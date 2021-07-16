@@ -9,3 +9,10 @@ This is the first paragraph. This is the first paragraph. This is the first para
 This is the first paragraph. This is the first paragraph.<!--more-->
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
+
+
+---
+layout: post
+title: My Coding Journey
+feature-img: "/img/journey.png"
+---
