@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: post
 title: First post
+feature-img: "/images/pic1.png"
 excerpt_separator: <!--more-->
 ---
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph.<!--more-->
+This is the first paragraph. This is the first paragraph. Nevertheless!!! <!--more-->
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 
 
----
-layout: post
-title: My Coding Journey
-feature-img: "/img/journey.png"
----
