@@ -25,7 +25,9 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
   </header>
-
+  {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+  {% endif %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -35,12 +37,4 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
-
-
-<article>
-  {% if page.feature-img %}
-    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
-  {% endif %}
-  <section class="post-content">{{ content }}</section>
 </article>
