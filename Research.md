@@ -3,8 +3,6 @@ layout: page
 title: Research
 ---
 
-{% include navigation.html %}
-
 -----------------------------
 
 This page will take you through various research projects that I have worked on so far. Hope you find it useful.
