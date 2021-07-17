@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. Nevertheless!!! 
-
-------<!--more-->
+<!--HTML hr tag is used here-->
+<hr><!--more-->
 
 This is the second paragraph. This is the second paragraph. This is the second paragraph. This is the second paragraph. This is the second paragraph.
