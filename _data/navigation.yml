@@ -1,9 +1,18 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
-  url: /
+main:
+  - title: Home
+    url: /
+  - title: Research
+    url: /Research
+  - title: Blog
+    url: /Blog
 
-- title: Research
-  url: /Research
-- title: Blog
-  url: /Blog
+  
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+#main:
+#  - title: "Research"
+#    url: /research/
+#  - title: "Archives"
+#    url: /archives/
