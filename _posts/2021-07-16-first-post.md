@@ -2,6 +2,9 @@
 layout: post
 title: First post
 feature-img: "/images/pic1.png"
+tags:
+  - test
+  - type
 ---
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
