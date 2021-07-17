@@ -6,6 +6,6 @@ author:
 
 # Build settings
 markdown: kramdown
-remote_theme: yous/whiteglass-template
+remote_theme: yous/whiteglass
 show_excerpts: true # set to true to show excerpts on the homepage
 excerpt_separator: <!--more-->
