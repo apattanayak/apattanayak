@@ -4,12 +4,7 @@ title: Home
 order: 1
 ---
 
-## Welcome to my website!
-
-
-
-
-<img src="/images/AP_Brazil.jpg" width="360" height="330" />
+<img src="/images/AP_Brazil.jpg" align=left width="360" height="330" />## Welcome to my website!
 
 ## Bio
 ------------------------------------
