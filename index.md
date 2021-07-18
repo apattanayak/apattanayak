@@ -9,7 +9,7 @@ order: 1
 
 
 
-<img src="/images/AP_Brazil.jpg" width="600" height="550" />
+<img src="/images/AP_Brazil.jpg" width="360" height="330" />
 
 ## Bio
 ------------------------------------
