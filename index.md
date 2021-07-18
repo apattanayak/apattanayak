@@ -4,7 +4,7 @@ title: Home
 order: 1
 ---
 
-<img src="/images/AP_Brazil.jpg" align=left style="width: 360px; height: 330px; margin-right:15px"/>
+<img src="/images/AP_Brazil.jpg" align=left style="width:360px;height:330px;margin-right:15px"/>
 
 ## Welcome to my website!
 ------------------------------------
