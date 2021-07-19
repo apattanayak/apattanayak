@@ -12,6 +12,8 @@ order: 1
   <a href="http://apattanayak.github.io/Blog">Blog</a> |
   <a href="http://apattanayak.github.io/Research">Research</a> |
   <a href="#">CV</a>
+  <a href="https://www.researchgate.net/profile/Anubhab-Pattanayak">Researchgate</a>
+  <a href="https://scholar.google.com/citations?user=7BrGcMoAAAAJ&hl=en&oi=ao">Google Scholar</a>
   <br><br>
 </p>
 <br />
