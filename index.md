@@ -5,8 +5,9 @@ order: 1
 ---
 
 
-<img src="/images/AP_Brazil.jpg" align=left style="width:324px;height:297px;text-align:center;margin-top:10px;margin-right:15px"/>
+<img src="/images/AP_Brazil.jpg" align=left style="width:324px;height:297px;margin-top:10px;margin-right:15px"/>
 
+<h4 style="text-align:center;">Welcome to my website </h4>
 ## Welcome to my website!
 
 <br />
