@@ -11,6 +11,5 @@ show_excerpts: true # set to true to show excerpts on the homepage
 excerpt_separator: <!--more-->
 
 header_pages:
-  - classes.markdown
-  - activities.markdown
-  - teachers.markdown
+  - Blog.md
+  - Research.md
