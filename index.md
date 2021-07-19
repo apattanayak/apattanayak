@@ -18,7 +18,6 @@ Check out my latest publications below:
 <br />
 <br />
 <br />
-<br />
 
 ## Bio
 ------------------------------------
