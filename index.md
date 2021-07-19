@@ -9,14 +9,15 @@ order: 1
 <br />
 Check out my latest publications below:
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Blog 1</a> |
+  <a href="#">Research 2</a> |
+  <a href="#">CV 3</a>
+  <br><br>
+  <!img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
 
 ## Bio
 ------------------------------------
