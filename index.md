@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-<img src="/images/AP_Brazil.jpg" align=left width=324 height=297/>
+<img src="/images/AP_Brazil.jpg" align=left style="width:324px;height:297px;margin-top:10px;margin-right:15px"/>
 
 ## Welcome to my website!
 
