@@ -11,9 +11,9 @@ Check out my latest publications below:
 
 <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">Blog 1</a> |
-  <a href="#">Research 2</a> |
-  <a href="#">CV 3</a>
+  <a href="http://apattanayak.github.io/Blog">Blog</a> |
+  <a href="http://apattanayak.github.io/Research">Research</a> |
+  <a href="#">CV</a>
   <br><br>
   <!img src="http://s.4cdn.org/image/title/105.gif">
 </p>
