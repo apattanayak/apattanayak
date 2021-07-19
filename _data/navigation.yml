@@ -3,10 +3,13 @@
 main:
   - title: Home
     url: /
+    active: home
   - title: Research
     url: /Research
+    active: research
   - title: Blog
     url: /Blog
+    active: blog
 
   
 # If you want to link only specific pages in your header, add the path to the
