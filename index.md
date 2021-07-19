@@ -24,7 +24,7 @@ I am an Assistant Professor of Economics at Madras School of Economics, Chennai,
 ------------------------------------
 
 <p align="right">
-  <b>Some Links:</b><br>
+  <b>Quick Links:</b><br>
   <a href="http://apattanayak.github.io/Blog">Blog</a> |
   <a href="http://apattanayak.github.io/Research">Research</a> |
   <a href="#">CV</a> |
