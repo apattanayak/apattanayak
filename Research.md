@@ -1,13 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /Research
-active: research
 ---
-
-<div>
-  <h2>Portfolio</h2>
-</div>
 
 -----------------------------
 
