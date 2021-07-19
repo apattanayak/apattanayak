@@ -7,10 +7,10 @@ order: 1
 
 <img src="/images/AP_Brazil.jpg" width=324 height=297/>
 
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
+<br />
+<br />
+<br />
+<br />
 
 ### Bio
 ------------------------------------
