@@ -15,9 +15,11 @@ Check out my latest publications below:
   <a href="http://apattanayak.github.io/Research">Research</a> |
   <a href="#">CV</a>
   <br><br>
-  <!img src="http://s.4cdn.org/image/title/105.gif">
 </p>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Bio
 ------------------------------------
