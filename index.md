@@ -10,8 +10,9 @@ order: 1
 <br />
 <br />
 <br />
-<br />
+
 <h2 style="text-align:center;">Welcome to my website! </h2>
+<br />
 <br />
 <br />
 <br />
