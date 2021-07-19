@@ -7,15 +7,16 @@ order: 1
 <img src="/images/AP_Brazil.jpg" align=left style="width:324px;height:297px;margin-top:10px;margin-right:30px"/>
 <h2 style="text-align:left;">Welcome to my website! </h2>
 <br />
-Check out my latest publications below:
-<br />
-<p align="center">
+<p align="right">
   <b>Some Links:</b><br>
   <a href="http://apattanayak.github.io/Blog">Blog</a> |
   <a href="http://apattanayak.github.io/Research">Research</a> |
   <a href="#">CV</a>
   <br><br>
 </p>
+<br />
+Check out my latest publications below:
+
 <br/>
 <br/>
 <br/>
