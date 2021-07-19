@@ -5,11 +5,8 @@ order: 1
 ---
 
 <img src="/images/AP_Brazil.jpg" align=left style="width:324px;height:297px;margin-top:10px;margin-right:15px"/>
-
 <h2 style="text-align:center;">Welcome to my website! </h2>
-
 <br />
-
 Check out my latest publications below:
 
 <br />
