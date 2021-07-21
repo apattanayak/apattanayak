@@ -7,5 +7,5 @@ author:
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
-show_excerpts: true # set to true to show excerpts on the homepage
-excerpt_separator: <!--more-->
+#show_excerpts: true # set to true to show excerpts on the homepage
+#excerpt_separator: <!--more-->
