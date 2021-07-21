@@ -1,15 +1,13 @@
 ---
 layout: post
-title: First post
+title: Second post
 feature-img: "/images/pic1.png"
 excerpt_separator: <!--more-->
 ---
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. Nevertheless!!! 
-
-------<!--more-->
+This is the first paragraph. This is the first paragraph. Nevertheless!!!<!--more-->
 
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
 This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
