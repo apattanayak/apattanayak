@@ -1,12 +1,12 @@
 # Belongs at: /_data/navigation.yml
 
 main:
-  - title: Home
+  - title: "Home"
     url: /
-  - title: Research
-    url: /Research
-  - title: Blog
-    url: /Blog
+  - title: "Research"
+    url: /Research/
+  - title: "Blog"
+    url: /Blog/
 
 
   
