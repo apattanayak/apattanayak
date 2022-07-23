@@ -127,6 +127,6 @@ addplot: histogram
 
 
     
-![svg](output_5_1.svg)
+![svg](/images/output_5_1.svg)
     
 
