@@ -1,5 +1,4 @@
-![]("./images/Undo-PNG-Picture1.png")
-
+[<img alt="Back to Blog Home" width="40px" src="/images/Undo-PNG-Picture1.png" />](https://apattanayak.github.io/Blog.html)
 
 ```python
 import stata_setup
