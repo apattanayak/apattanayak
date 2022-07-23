@@ -1,9 +1,3 @@
----
-layout: post
-title: First post on Jupyter Notebook
----
-
-
 ```python
 import os
 os.getcwd()
