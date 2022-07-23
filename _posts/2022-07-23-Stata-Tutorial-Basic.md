@@ -1,6 +1,8 @@
 [<img alt="Back to Blog Home" width="80px" src="/images/back2.png" align="left"/>](https://apattanayak.github.io/Blog.html)
 [<img alt="Back to Blog Home" width="80px" src="/images/back2.png" align="right"/>](https://apattanayak.github.io/Blog.html)
 
+
+
 This tutorial will show the basic use of Stata and python together.
 
 
