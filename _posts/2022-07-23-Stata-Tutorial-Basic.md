@@ -1,4 +1,4 @@
-[<img alt="Back to Blog Home" width="40px" src="/images/Undo-PNG-Picture1.png" />](https://apattanayak.github.io/Blog.html)
+[<img alt="Back to Blog Home" width="40px" src="/images/back2.png" />](https://apattanayak.github.io/Blog.html)
 
 
 This tutorial will show the basic use of Stata and python together.
