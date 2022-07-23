@@ -1,33 +1,9 @@
 [<img alt="Back to Blog Home" width="80px" src="/images/back2.png" />](https://apattanayak.github.io/Blog.html)
 
 
-This tutorial will show the basic use of Stata and python together.
-```python
-import stata_setup
-stata_setup.config("C:/Program Files/Stata17/", "se")
-```
+This tutorial will show the basic use of Stata and python together.\
 
-    
-      ___  ____  ____  ____  ____ ®
-     /__    /   ____/   /   ____/      17.0
-    ___/   /   /___/   /   /___/       SE—Standard Edition
-    
-     Statistics and Data Science       Copyright 1985-2021 StataCorp LLC
-                                       StataCorp
-                                       4905 Lakeway Drive
-                                       College Station, Texas 77845 USA
-                                       800-STATA-PC        https://www.stata.com
-                                       979-696-4600        stata@stata.com
-    
-    Stata license: 15-student lab perpetual
-    Serial number: 401706301471
-      Licensed to: Anubhab
-                   Madras School of Economics
-    
-    Notes:
-          1. Unicode is supported; see help unicode_advice.
-          2. Maximum number of variables is set to 5,000; see help set_maxvar.
-    
+
 
 
 ```python
