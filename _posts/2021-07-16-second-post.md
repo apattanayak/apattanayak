@@ -1,15 +1,8 @@
 ---
 layout: post
-title: Second post
+title: Role of Education - A perspective
 feature-img: "/images/pic1.png"
 excerpt_separator: <!--more-->
 ---
 
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. Nevertheless!!!<!--more-->
-
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
-This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph. This is the first paragraph.
+Education is an enabling factor.
