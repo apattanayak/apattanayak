@@ -1,6 +1,7 @@
-![](<img src="./images/Undo-PNG-Picture1.png">)
+[<img alt="Back to Blog Home" width="40px" src="/images/Undo-PNG-Picture1.png" />](https://apattanayak.github.io/Blog.html)
 
 
+This tutorial will show the basic use of Stata and python together.
 ```python
 import stata_setup
 stata_setup.config("C:/Program Files/Stata17/", "se")
