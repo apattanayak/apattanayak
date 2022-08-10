@@ -3,10 +3,13 @@
 main:
   - title: "Home"
     url: /
+    order: 1
   - title: "Research"
     url: /Research/
+    order: 2
   - title: "Blog"
     url: /Blog/
+    order: 3
 
 
   
