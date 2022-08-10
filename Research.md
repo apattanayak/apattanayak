@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: page
 title: Research
 order: 2
 ---
