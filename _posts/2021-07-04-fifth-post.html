@@ -174,10 +174,10 @@ h3 {font-size: 120%;}
 h4 {font-size: 100%; font-weight:bold}
 img.center {display:block; margin-left:auto; margin-right:auto}
 .small{font-size:16pt;}
-a:link {color: blue; text-decoration: underline;}
+a:link {color: blue; text-decoration: none;}
 a:visited {color:green; text-decoration: none;} /*#2a7ae2*/
-a:hover {color: #ff0000; text-decoration: none}
-a:active {color: #ff0000; underline}
+a:hover {color: #ff0000; text-decoration: underline}
+a:active {color: #ff0000; none}
 .em {font-weight:bold;}
 pre, code {color:#4b4b4b; font-size:14.5px; line-height:14.5px; font-family: "lucida console", monospace;}
 pre.stata {color:#4b4b4b;font-size:14.5px; line-height:14.5px;}
@@ -207,7 +207,7 @@ table:not([class]) tbody:last-child tr:last-child td {border-bottom:1px solid bl
 <header id="title-block-header">
 <h1 class="title"><a href="/">Title: Tutorial 14</a></h1>
 </header>
-<p align="centre">
+<p align="left">
 <b>Quick Links:</b><br>
 <a href="http://apattanayak.github.io/Blog">Blog</a> |
 <a href="http://apattanayak.github.io/Research">Research</a> |
@@ -219,33 +219,26 @@ contains!</p>
 <pre class='stata'>. sysuse auto, clear
 (1978 Automobile Data)
 
-. describe, detail
+. summarize
 
-Contains data from C:\Program Files\Stata16\ado\base/a/auto.dta
-  obs:            74                          1978 Automobile Data
- vars:            12                          13 Apr 2018 17:45
-width:            43                          
-                                              (_dta has notes)
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-              storage   display    value
-variable name   type    format     label      variable label
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-make            str18   %-18s                 Make and Model
-price           int     %8.0gc                Price
-mpg             int     %8.0g                 Mileage (mpg)
-rep78           int     %8.0g                 Repair Record 1978
-headroom        float   %6.1f                 Headroom (in.)
-trunk           int     %8.0g                 Trunk space (cu. ft.)
-weight          int     %8.0gc                Weight (lbs.)
-length          int     %8.0g                 Length (in.)
-turn            int     %8.0g                 Turn Circle (ft.)
-displacement    int     %8.0g                 Displacement (cu. in.)
-gear_ratio      float   %6.2f                 Gear Ratio
-foreign         byte    %8.0g      origin     Car type
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-Sorted by: foreign
+    Variable │        Obs        Mean    Std. Dev.       Min        Max
+─────────────┼─────────────────────────────────────────────────────────
+        make │          0
+       price │         74    6165.257    2949.496       3291      15906
+         mpg │         74     21.2973    5.785503         12         41
+       rep78 │         69    3.405797    .9899323          1          5
+    headroom │         74    2.993243    .8459948        1.5          5
+─────────────┼─────────────────────────────────────────────────────────
+       trunk │         74    13.75676    4.277404          5         23
+      weight │         74    3019.459    777.1936       1760       4840
+      length │         74    187.9324    22.26634        142        233
+        turn │         74    39.64865    4.399354         31         51
+displacement │         74    197.2973    91.83722         79        425
+─────────────┼─────────────────────────────────────────────────────────
+  gear_ratio │         74    3.014865    .4562871       2.19       3.89
+     foreign │         74    .2972973    .4601885          0          1
 </pre>
-<p>The dataset has 12 variables and 74 observations.</p>
+<p>The dataset has  variables and 74 observations.</p>
 <p>Now let us get on with the regression using the following command
 that will yield the output below it.</p>
 <pre class='stata'>. regress mpg weight
@@ -278,6 +271,7 @@ that will yield the output below it.</p>
 <figcaption aria-hidden="true">Fuel Efficiency</figcaption>
 </figure>
 <p>That’s all for now!</p>
+<hr />
 <p align="right">
 <b>Quick Links:</b><br>
 <a href="http://apattanayak.github.io/Blog">Blog</a> |
